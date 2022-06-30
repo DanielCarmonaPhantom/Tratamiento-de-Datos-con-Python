@@ -23,6 +23,6 @@ datos = pd.DataFrame({'nombres':('Carlos Ayala',
                             True)},
             index=indice)
 
- ### El método ```iloc[ ]```.
+### El método ```iloc[ ]```.
 
-El método ```iloc[ ]``` permite identificar a uno o más elemento dentro de un re
+El método ```iloc[ ]``` permite identificar a uno o más elemento dentro de un renglón de un dataframe utilizando números enteros para referenciar tanto al índice como a las columnas.
