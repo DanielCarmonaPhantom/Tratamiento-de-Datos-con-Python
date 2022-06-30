@@ -2,27 +2,8 @@
 
 Contenido:
 
-<a href='Sesion-04/Sesion-04.ipynb'>Sesión 4: Tipo de operaciones en Pnadas</>
- 
- indice = ['gerente', 'supervisor', 'vendedor', 'cajero']
-datos = pd.DataFrame({'nombres':('Carlos Ayala',
-                                 'Martha Sánchez'
-                                 , 'Jimena Ríos',
-                                 'Raul Quiroz'),
-            'fechas':(dt.datetime(1995,12,21), 
-                      dt.datetime(1989,1,13), 
-                      dt.datetime(1992,9,14), 
-                      dt.datetime(1993,7,8)),
-            'saldo': (3600, 
-                      7452, 
-                      np.NaN, 
-                      12143.5),
-            'al corriente':(True, 
-                            True, 
-                            False, 
-                            True)},
-            index=indice)
-
-### El método ```iloc[ ]```.
-
-El método ```iloc[ ]``` permite identificar a uno o más elemento dentro de un renglón de un dataframe utilizando números enteros para referenciar tanto al índice como a las columnas.
+3. <a href='Sesion-01/Sesion-01.ipynb'>Sesión 1: Operaciones en Numpy</>
+3. <a href='Sesion-02/Sesion-02.ipynb'>Sesión 2: Operaciones en Numpy</>
+3. <a href='Sesion-03/Sesion-03.ipynb'>Sesión 3: Operaciones en Numpy</>
+4. <a href='Sesion-03/Sesion-03_2.ipynb'>Sesión 3: Intro a Pandas</>
+5. <a href='Sesion-04/Sesion-04.ipynb'>Sesión 4: Tipo de operaciones en Pandas</>
