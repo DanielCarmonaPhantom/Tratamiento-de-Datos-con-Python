@@ -22,3 +22,7 @@ datos = pd.DataFrame({'nombres':('Carlos Ayala',
                             False, 
                             True)},
             index=indice)
+
+ ### El método ```iloc[ ]```.
+
+El método ```iloc[ ]``` permite identificar a uno o más elemento dentro de un re
