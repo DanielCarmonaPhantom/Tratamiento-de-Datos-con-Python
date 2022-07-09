@@ -13,4 +13,4 @@ Contenido:
 * <a href='Sesion-05/Sesion-05.ipynb'>Sesión 5: Lectura de CSV</a>
 
 ## Proyecto Final
-* <a href='Proyecto/proyecto.ipynb'>Proyecto</a>
+* <a href='Proyecto/Proyecto.ipynb'>Proyecto</a>
