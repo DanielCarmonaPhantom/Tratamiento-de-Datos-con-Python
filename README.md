@@ -11,3 +11,6 @@ Contenido:
 * <a href='Sesion-03/Sesion-03_2.ipynb'>Sesión 3: Intro a Pandas</a>
 * <a href='Sesion-04/Sesion-04.ipynb'>Sesión 4: Tipo de operaciones en Pandas</a>
 * <a href='Sesion-05/Sesion-05.ipynb'>Sesión 5: Lectura de CSV</a>
+
+## Proyecto Final
+* <a href='Proyecto/proyecto.ipynb'>Proyecto</a>
